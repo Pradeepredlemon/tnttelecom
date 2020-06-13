@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCE41215-784D-4303-B436-11A540B43AA2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF5C5F15-8071-4A7E-B098-1FE6F3E6E692"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/ViewController.swift"
+            timestampString = "596441871.445303"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "apiLogin(loginUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5E9EC06-5968-45E0-BC79-0C2D35FFF73E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/ViewController.swift"
+            timestampString = "596441871.445426"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "apiLogin(loginUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A614DC0B-8F90-41DA-B6F8-03001C1537E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/NewTaskDetailPageViewController.swift"
+            timestampString = "596453295.16111"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "mailComposeController(_:didFinishWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67022D1E-2A0F-460E-9331-8EA94D89AB17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/NewTaskDetailPageViewController.swift"
+            timestampString = "596453295.1611789"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "configureMailComposer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BF6DDE6-4A84-4749-B5B3-4517862DFABA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/NewTaskDetailPageViewController.swift"
+            timestampString = "596453295.1612329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "someAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05ACB343-41B9-4273-816B-BBA76055660D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/DetailPageViewController.swift"
+            timestampString = "596453295.161286"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "476"
+            endingLineNumber = "476"
+            landmarkName = "configureMailComposer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFA29209-86BF-4FB7-B35B-18E6FAFA5AE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/DetailPageViewController.swift"
+            timestampString = "596453295.161671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
+            landmarkName = "someAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70D84221-3E91-4351-A055-262D6C095CD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/DetailPageViewController.swift"
+            timestampString = "596453295.16194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "483"
+            endingLineNumber = "483"
+            landmarkName = "mailComposeController(_:didFinishWith:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70D84221-3E91-4351-A055-262D6C095CD5 - 3848af61965cf7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TNT_C_S.DetailPageViewController.mailComposeController(_: __C.MFMailComposeViewController, didFinishWith: __C.MFMailComposeResult, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TNT C+S"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mipl/Desktop/OpenServiceCall%203%202/OpenServiceCall/Controller/DetailPageViewController.swift"
+                  timestampString = "596453295.918456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "70D84221-3E91-4351-A055-262D6C095CD5 - 3848af61965cf7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TNT_C_S.DetailPageViewController.mailComposeController(_: __C.MFMailComposeViewController, didFinishWith: __C.MFMailComposeResult, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TNT C+S"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mipl/Desktop/OpenServiceCall%203%202/OpenServiceCall/Controller/DetailPageViewController.swift"
+                  timestampString = "596453295.920494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "70D84221-3E91-4351-A055-262D6C095CD5 - 3848af61965cf7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TNT_C_S.DetailPageViewController.mailComposeController(_: __C.MFMailComposeViewController, didFinishWith: __C.MFMailComposeResult, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TNT C+S"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mipl/Desktop/OpenServiceCall%203%202/OpenServiceCall/Controller/DetailPageViewController.swift"
+                  timestampString = "596453295.922431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "70D84221-3E91-4351-A055-262D6C095CD5 - 3848af61965cf7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TNT_C_S.DetailPageViewController.mailComposeController(_: __C.MFMailComposeViewController, didFinishWith: __C.MFMailComposeResult, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TNT C+S"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mipl/Desktop/OpenServiceCall%203%202/OpenServiceCall/Controller/DetailPageViewController.swift"
+                  timestampString = "596453295.924306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "70D84221-3E91-4351-A055-262D6C095CD5 - 3848af61965cf7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TNT_C_S.DetailPageViewController.mailComposeController(_: __C.MFMailComposeViewController, didFinishWith: __C.MFMailComposeResult, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TNT C+S"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mipl/Desktop/OpenServiceCall%203%202/OpenServiceCall/Controller/DetailPageViewController.swift"
+                  timestampString = "596453295.926177"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "178DF193-B6BD-4EDE-BDF5-778CF65DB233"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenServiceCall/Controller/UpdateProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

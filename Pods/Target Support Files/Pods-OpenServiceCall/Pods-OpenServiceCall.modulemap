@@ -1,0 +1,6 @@
+framework module Pods_OpenServiceCall {
+  umbrella header "Pods-OpenServiceCall-umbrella.h"
+
+  export *
+  module * { export * }
+}

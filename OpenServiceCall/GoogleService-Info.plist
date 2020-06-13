@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>671599170496-22vlhijis4s605i510vlp8ij1mhsqrm2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.671599170496-22vlhijis4s605i510vlp8ij1mhsqrm2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>671599170496-g0jgp36l7vbq6mipfk34drssia6r6lf3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAc7O_rgW-uWW5UFJhy9Gb64DDeClHlPUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>671599170496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.redlemon.tntcsapplication</string>
+	<key>PROJECT_ID</key>
+	<string>tntcsapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tntcsapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:671599170496:ios:a79c11695751e0d321ae25</string>
+	<key>DATABASE_URL</key>
+	<string>https://tntcsapp.firebaseio.com</string>
+</dict>
+</plist>
